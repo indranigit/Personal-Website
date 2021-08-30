@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(221, 241, 241);
+
+}
+hr{
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width:5px;
+   width: 5%;
+}
+h1{
+    color: rgb(75, 194, 194);
+}
+h3{
+    color: rgb(75, 194, 194);
+}
+
+/*unvisited link*/
+a:link{
+      color:#f01d1d;
+}
+a:visited
+{
+    color: rgb(161, 236, 48);
+}
+/*mouse over link*/
+a:hover{
+   color:#FF00FF;
+}
+
